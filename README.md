@@ -1,6 +1,6 @@
 # securitymod
 
-In below space, i will be sharing the best practice and script to lock down the enviroment if there is any unauthorised access
+In below space, i will be sharing the best practice and script to lock down the environment if there is any unauthorised access
 
 Script will list all instances, all security groups and their rules for desired profile
 
