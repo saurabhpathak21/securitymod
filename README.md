@@ -3,15 +3,19 @@
 In below space, i will be sharing the best practice and script to lock down the enviroment if there is any unauthorised access
 
 Script will list all instances, all security groups and their rules for desired profile
+
+
 # Before using script, you need to create "profile" file, which is ~/.aws/credentials where you put your AWS keys like this:
 # 
-# [master]
+# [dev]
 # aws_access_key_id = *****
 # aws_secret_access_key = *****
 # 
 # .. and then use it in this script
 
 ########################################
+
+
 Steps to create the profile in AWS 
 
 aws configure   --profile dev
