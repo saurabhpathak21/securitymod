@@ -6,10 +6,10 @@ Script will list all instances, all security groups and their rules for desired 
 
 #Before using script, you need to create "profile" file, which is ~/.aws/credentials where you put your AWS keys like this:
 # 
-#[dev]
-#aws_access_key_id = *****
-#aws_secret_access_key = *****
-# 
+``[dev]
+aws_access_key_id = *****
+aws_secret_access_key = *****
+``` 
 #.. and then use it in this script
 
 ########################################
