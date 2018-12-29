@@ -17,8 +17,9 @@ Script will list all instances, all security groups and their rules for desired 
 Steps to create the profile in AWS 
 
 **aws configure   --profile dev
-
-*AWS Access Key ID [****************G3HA]:
-*AWS Secret Access Key [****************2n/2]:
-*Default region name []:
-*Default output format [None]:
+```
+AWS Access Key ID [****************G3HA]:
+AWS Secret Access Key [****************2n/2]:
+Default region name []:
+Default output format [None]:
+```
