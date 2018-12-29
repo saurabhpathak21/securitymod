@@ -1,4 +1,4 @@
-#Securitymod
+#SecurityMod
 
 In below space, i will be sharing the best practice and script to lock down the environment if there is any unauthorized access.
 
